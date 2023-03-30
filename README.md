@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrik Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hrikdas1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hrikdas1?logo=twitter&style=for-the-badge" alt="https://twitter.com/hrikdas1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Hrikdas1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hrikdas1?logo=twitter&style=for-the-badge" alt="https://twitter.com/hrikdas1" /></a> </p>
 
 - 📫 How to reach me **hrikdas012@gmail.com**
 
