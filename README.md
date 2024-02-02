@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hrik Das</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/Hrikdas1" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hrikdas1?logo=twitter&style=for-the-badge" alt="https://twitter.com/hrikdas1" /></a> </p>
-
 - 📫 How to reach me **hrikdas012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/hrikdas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hrikdas1" height="30" width="40" /></a>
+<a href="https://twitter.com/hrikdas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hrikdas1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hrik-das-46027a235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hrik-das-46027a235/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/hrik.das.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hrik.das.31" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/____god_like____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/____god_like____/" height="30" width="40" /></a>
