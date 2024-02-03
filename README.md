@@ -37,10 +37,9 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
-<!--<h2><i>⚙️ GitHub Analytics</i></h2>
+<h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-<a href="https://github.com/Hrik-Das"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hrik-Das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Hrik-Das"><!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hrik-Das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>-->
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hrik-Das&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</p>-->
