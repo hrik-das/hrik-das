@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/hrikdas1" target="_blank"> <img src="https://img.shields.io/twitter/follow/hrikdas?logo=twitter&style=for-the-badge" alt=hrikdas1"/></a></p>
 
 <ul>
-  <li>🌱 I'm currently learning <strong>Javascript, Python</strong></li>
+  <li>🌱 I'm currently learning <strong>Fullstack Web Development.</strong></li>
   <li>💬 Ask me about <strong>Javascript, Python, Frontend Web Development.</strong></li>
   <li>📫 How to reach me <strong>hrikdas012@gmail.com</strong></li>
   <li>⚡ Fun fact <strong>I'm too Lazy but Passionate. 😄</strong></li>
