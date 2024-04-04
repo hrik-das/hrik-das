@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://shellscript.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell-script" width="40" height="40"/></a>
+<!-- <a href="https://shellscript.sh/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell-script" width="40" height="40"/></a> -->
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://html.com/html5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://css3.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
@@ -39,8 +39,9 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-<!-- <a href="https://github.com/Hrik-Das"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hrik-Das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a> -->
-<a href="https://github.com/hrik-das"><img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrik-das&layout=compact&langs_count=10&theme=algolia"/></a>
+<a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=hrik-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrik-das&layout=compact&langs_count=10&theme=algolia"/></a>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrik-das&theme=algolia" width="40%" alt="hrik-das"/></p>
 </p>
 
 <div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=hrikdas&label=Visiters&countColor=%23263759"/ width="120"></div>
