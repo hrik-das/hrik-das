@@ -39,9 +39,10 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-<!-- <a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=hrik-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a> -->
-<a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrik-das&layout=compact&langs_count=10&theme=algolia"/></a>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrik-das&theme=algolia" width="40%" alt="hrik-das"/></p>
+<a href="https://github.com/hrik-das"><img height="180em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrik-das&layout=compact&langs_count=10&theme=algolia"/></a>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrik-das&theme=algolia" width="40%" alt="hrik-das"/>
 </p>
 
 <div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=hrikdas&label=Visiters&countColor=%23263759"/ width="120"></div>
+
+<!-- <a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=hrik-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a> -->
