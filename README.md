@@ -9,6 +9,7 @@
   <li>📫 How to reach me <strong>hrikdas012@gmail.com</strong></li>
   <li>✎ Currently Pursuing my Undergraduate studies in <strong>BCA</strong>.</li>
   <li>⚡ Fun fact <strong>I'm too Lazy but Passionate. 😄</strong></li>
+  <li>✨ <strong>I use Arch btw. 👽</strong></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
