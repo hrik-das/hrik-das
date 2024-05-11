@@ -6,7 +6,7 @@
 <ul>
   <li>🌱 I'm currently learning <strong>Fullstack Web Development.</strong></li>
   <li>💬 Ask me about <strong>Frontend Web Development.</strong></li>
-  <li>📫 How to reach me <strong>hrikdas012@gmail.com</strong></li>
+  <li>📫 How to reach me <strong>emptynull01@gmail.com</strong></li>
   <li>✎ Currently Pursuing my Undergraduate studies in <strong>BCA</strong>.</li>
   <li>⚡ Fun fact <strong>I'm too Lazy but Passionate. 😄</strong></li>
   <li>✨ <strong>I use Arch btw. 👽</strong></li>
