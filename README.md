@@ -4,12 +4,13 @@
 <p align="left"><a href="https://twitter.com/hrikdas1" target="_blank"><img src="https://img.shields.io/twitter/follow/hrikdas?logo=x&style=for-the-badge" alt="hrikdas1"/></a></p>
 
 <ul>
+  <li>👨🏼‍💻 A Passionate Frontend Developer</li>
   <li>🌱 I'm currently learning <strong>Fullstack Web Development.</strong></li>
   <li>💬 Ask me about <strong>Frontend Web Development.</strong></li>
   <li>📫 How to reach me <strong>emptynull01@gmail.com</strong></li>
   <li>✎ Currently Pursuing my Undergraduate studies in <strong>BCA</strong>.</li>
-  <li>⚡ Fun fact <strong>I'm too Lazy but Passionate. 😄</strong></li>
-  <li>✨ <strong>I use Arch btw. 👽</strong></li>
+  <li>⚡ Fun fact <strong>🚀 “There are 10 types of people in the world: those who understand binary and those who don’t.”</strong></li>
+  <!--   <li>✨ <strong>I use Arch btw. 👽</strong></li> -->
 </ul>
 
 <h3 align="left">Connect with me:</h3>
@@ -38,14 +39,42 @@
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 </p>
 
+<div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=hrikdas&label=Visiters&countColor=%23263759" width="120"></div>
+
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
 <a align="center" href="https://github.com/hrik-das"><img height="160em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrik-das&layout=compact&langs_count=10&theme=algolia"/></a>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrik-das&theme=algolia" width="50%" alt="hrik-das"/>
 </p>
-
-<div align="center"><img src="https://api.visitorbadge.io/api/visitors?path=hrikdas&label=Visiters&countColor=%23263759"/ width="120"></div>
-
 <div align="center">
 <a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=hrik-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
 </div>
+
+<div align="center">
+    <a href="https://GitHub.com/hrik-das">
+        <img src="https://hacked-GitHub-stat-trophies.flyn-nick.vercel.app/?username=hrik-das" alt="GitHub Trophies" />
+    </a>
+</div>
+
+<!-- # GitHub Contributions
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+    <a href="./profile-3d-contrib/profile-night-green.svg">
+        <img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+    </a>
+</p>
+
+<h3 align="center">GitHub Metrics</h3>
+<p align="center">
+    <img width="625em" src="https://github.com/hrik-das/hrik-das/blob/master/github-metrics.svg" />
+</p>
+<p>
+    <img style="float:left" width="625em" src="https://GitHub.com/hrik-das/hrik-das/blob/master/metrics.plugin.habits.facts.svg" />
+</p>
+
+<h3 align="left">Support:</h3>
+<p>
+    <a href="https://www.buymeacoffee.com/mriceflame">
+        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mriceflame" />
+    </a>
+</p> -->
