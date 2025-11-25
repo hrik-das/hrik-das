@@ -49,9 +49,9 @@
 <a align="center" href="https://github.com/hrik-das"><img height="160em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hrik-das&layout=compact&langs_count=10&theme=algolia"/></a>
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hrik-das&theme=algolia" width="50%" alt="hrik-das"/>
 </p>
-<div align="center">
-<a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=hrik-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
-</div>
+<!-- <div align="center">
+  <a href="https://github.com/hrik-das"><img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=hrik-das&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a>
+</div> -->
 
 <div align="center">
     <a href="https://GitHub.com/hrik-das">
